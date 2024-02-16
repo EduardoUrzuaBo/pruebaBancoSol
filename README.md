@@ -8,6 +8,7 @@ cypress/pages: Contiene clases del Modelo de Objeto de Página (POM) para cada p
 README.md: Este archivo.
 package.json: Contiene las dependencias y scripts del proyecto.
 En e2e/3-Integration estan las preubas de inbox, login, register.
+https://github.com/EduardoUrzuaBo/pruebaBancoSol/tree/main/cypress/e2e/3-integration
 
 Instalación
 Clona este repositorio:
